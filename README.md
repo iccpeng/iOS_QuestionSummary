@@ -106,7 +106,7 @@ KVO，这个方式就像一个广播一样，Model发信号，Controller设置�
 
 M:Model层
 
-`V:ViewController层`
+V:ViewController层
 
 VM:ViewModel层，就是View和Model层的粘合剂，他是一个放置用户输入验证逻辑，视图显示逻辑，发起网络请求和其他各种各样的代码的地方。就是把原来
 
